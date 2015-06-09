@@ -4,17 +4,19 @@
 }
 
 .top-bar .name h1 a {
-  color: black;
+  color:#0000;
   font-size: 24px;
 }
 
 .top-bar-section ul li {
   background-color: #D8D8D8;
+  font-weight:bold;
 }
 
 .top-bar-section li:not(.has-form) a:not(.button) {
-  background-color: white;
-  color: black;
+  background-color: #D8D8D8;
+  color:white;
+  font-weight:bold;
 }
 
 hr#menu-line {
